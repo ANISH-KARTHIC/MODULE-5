@@ -5,5 +5,5 @@ Demonstrates how while(True) can take repeated inputs until a condition breaks t
 
 **SAMPLE OUTPUT:**
 
-Enter a positive number: -1 
+Enter a positive number: -1 <br>
 The number is negative
