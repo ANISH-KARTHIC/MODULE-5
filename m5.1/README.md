@@ -6,8 +6,8 @@ The while loop repeats a block of code while a condition is true. Here it prints
 
 **EXPECTED OUTPUT:**
 
-Count is: 1 
-Count is: 2 
-Count is: 3 
-Count is: 4
-Count is: 5 
+Count is: 1 <br>
+Count is: 2 <br>
+Count is: 3 <br>
+Count is: 4 <br>
+Count is: 5 <br>
