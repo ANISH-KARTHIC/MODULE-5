@@ -3,7 +3,7 @@
 **DESCRIPTION**: 
 A guessing game using while loop to keep guessing until the number is found.  
 
-**SAMPLE OUTPUT:**
-Is it 1? 
-Is it 2? 
-Number of tries: 2 
+**SAMPLE OUTPUT:**<br>
+Is it 1? <br>
+Is it 2? <br>
+Number of tries: 2 <br>
